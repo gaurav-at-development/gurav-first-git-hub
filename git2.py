@@ -4,4 +4,4 @@ def string(str1,str2):
 
 str1 = str("country")
 str2 = str("india")
-string(str1,str2)
+print(string(str1,str2))
